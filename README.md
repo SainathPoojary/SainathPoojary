@@ -1,4 +1,4 @@
-# Hey guys 👋, I'm Sainath Poojary
+# Hey Folks 👋, I'm Sainath Poojary
 
 ![GitHub Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=sainathpoojary&date_format=j%20M%5B%20Y%5D)
 
