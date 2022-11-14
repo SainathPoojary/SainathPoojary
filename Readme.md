@@ -24,19 +24,19 @@
 
 **Languages and Tools:**
 
-<img height="30" src="https://img.icons8.com/color/48/null/python--v1.png"> 
-<img height="30" src="https://img.icons8.com/color/48/null/javascript--v1.png">
-<img height="30" src="https://img.icons8.com/color/48/null/java--v1.png"> 
-<img height="30" src="https://img.icons8.com/color/48/null/react-native.png">
-<img height="30" src="https://img.icons8.com/fluency/48/null/node-js.png">
-<img height="30" src="https://img.icons8.com/color/48/null/figma.png">
-<img height="30" src="https://img.icons8.com/color/48/null/notion.png">
-<img height="30" src="https://img.icons8.com/color/48/null/trello.png">
-<img height="30" src="https://img.icons8.com/color/48/null/adobe-xd.png">
-<img height="30" src="https://img.icons8.com/color/48/null/git.png">
-<img height="30" src="https://img.icons8.com/color/48/null/heroku.png">
-<img height="30" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png">
-<img height="30" src="https://img.icons8.com/color/48/null/android-studio--v2.png">
+[![Linkedin Badge](https://img.icons8.com/color/30/null/python--v1.png)]()
+[![JavaScript Badge](https://img.icons8.com/color/30/null/javascript--v1.png)]()
+[![Java Badge](https://img.icons8.com/color/30/null/java--v1.png)]()
+[![React Native Badge](https://img.icons8.com/color/30/null/react-native.png)]()
+[![NodeJS Badge](https://img.icons8.com/fluency/30/null/node-js.png)]()
+[![Figma Badge](https://img.icons8.com/color/30/null/figma.png)]()
+[![Notion Badge](https://img.icons8.com/color/30/null/notion.png)]()
+[![Trello Badge](https://img.icons8.com/color/30/null/trello.png)]()
+[![Adobe XD Badge](https://img.icons8.com/color/30/null/adobe-xd.png)]()
+[![Git Badge](https://img.icons8.com/color/30/null/git.png)]()
+[![Heroku Badge](https://img.icons8.com/color/30/null/heroku.png)]()
+[![Visual Studio Code Badge](https://img.icons8.com/color/30/null/visual-studio-code-2019.png)]()
+[![Android Studio Badge](https://img.icons8.com/color/30/null/android-studio--v2.png)]()
 
 ---
 
