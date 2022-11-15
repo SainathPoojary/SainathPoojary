@@ -22,7 +22,7 @@
 - 🤔 I’m looking for an internship.
 - 💬 Ask me about anything, I love to answer!
 - 😄 Pronouns: He/Him.
-- 🎯 Portfolio: [sainth.me](sainath.me)
+- 🎯 Portfolio: [sainath.me](sainath.me)
 - 📫 Email me at [contact@sainath.me](mailto:contact@sainath.me)
 
 **Languages and Tools:**
