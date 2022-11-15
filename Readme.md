@@ -1,4 +1,4 @@
-<h2 title="Sainath Poojary"> Hey 👋, I'm Sainath!</h2>
+<h2 title="Sainath Poojary"> Hey, I'm Sainath! 👋</h2>
 
 <a href="https://www.linkedin.com/in/sainathpoojary/">
   <img align="left" alt="Sainath's LinkedIn" width="24px" src="https://img.icons8.com/color/96/null/linkedin--v1.png" />
@@ -19,8 +19,11 @@
 
 - 👨🏽‍💻 I’m currently a CS Undergrad student at Thadomal Shahani Engineering College, Mumbai
 - 🌱 I’m currently exploring MERN stack.
+- 🤔 I’m looking for an internship.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [contact@sainth.me](mailto:contact@sainth.me).
+- 😄 Pronouns: He/Him.
+- 🎯 Portfolio: [sainth.me](sainath.me)
+- 📫 Email me at [contact@sainath.me](mailto:contact@sainath.me)
 
 **Languages and Tools:**
 
@@ -49,3 +52,27 @@
 | ClipIt - URL Shortener         | HTML, CSS, JS            | Python, Flask, SQLite, Sqlalchemy |      [link](https://clipitlinks.herokuapp.com)      |      [link](hhttps://github.com/SainathPoojary/urlShortener)      |
 | Random Video chat web app      | HTML, CSS, JS            | NodeJs, Express                   |      [link](https://sociallege.herokuapp.com/)      |       [link](https://github.com/SainathPoojary/Sociallege)        |
 | Complaint Registration Portol  | HTML, CSS, JS            | Flask, Python, SQLite             | [link](https://complaintregistration.herokuapp.com) | [link](https://github.com/SainathPoojary/OnlineComplaintWebsites) |
+
+**Github Stats:**
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sainath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sainathpoojary&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathpoojary&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sainathpoojary" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sainathpoojary"><img alt="Sainath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sainathpoojary&custom_title=Sainath's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
