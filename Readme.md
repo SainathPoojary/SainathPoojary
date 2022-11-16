@@ -49,7 +49,7 @@
 | ------------------------------ | ------------------------ | --------------------------------- | :-------------------------------------------------: | :---------------------------------------------------------------: |
 | Online Notepad                 | ReactJS                  | Firebase                          |      [link](https://onlinenotepad.vercel.app/)      |     [link](https://github.com/sainathpoojary/online-notepad)      |
 | Medicine Recommendation System | HTML, CSS, JS, Bootstrap | Python, Flask, scikit-learn       |      [link](https://medicine.up.railway.app/)       | [link](https://github.com/sainathPoojary/medicinerecommendation)  |
-| ClipIt - URL Shortener         | HTML, CSS, JS            | Python, Flask, SQLite, Sqlalchemy |      [link](https://clipitlinks.herokuapp.com)      |      [link](hhttps://github.com/SainathPoojary/urlShortener)      |
+| ClipIt - URL Shortener         | HTML, CSS, JS            | Python, Flask, SQLite, Sqlalchemy |      [link](https://clipitlinks.herokuapp.com)      |      [link](https://github.com/SainathPoojary/urlShortener)      |
 | Random Video chat web app      | HTML, CSS, JS            | NodeJs, Express                   |      [link](https://sociallege.herokuapp.com/)      |       [link](https://github.com/SainathPoojary/Sociallege)        |
 | Complaint Registration Portol  | HTML, CSS, JS            | Flask, Python, SQLite             | [link](https://complaintregistration.herokuapp.com) | [link](https://github.com/SainathPoojary/OnlineComplaintWebsites) |
 
