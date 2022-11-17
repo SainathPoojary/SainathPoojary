@@ -35,6 +35,7 @@
 [![HTML Badge](https://img.icons8.com/color/30/null/html-5--v1.png)]()
 [![CSS Badge](https://img.icons8.com/color/30/null/css3.png)]()
 [![Sass Badge](https://img.icons8.com/color/30/null/sass--v1.png)]()
+[![NPM Badge](https://img.icons8.com/color/30/null/npm.png)]()
 [![Figma Badge](https://img.icons8.com/color/30/null/figma.png)]()
 [![Notion Badge](https://img.icons8.com/color/30/null/notion.png)]()
 [![Trello Badge](https://img.icons8.com/color/30/null/trello.png)]()
