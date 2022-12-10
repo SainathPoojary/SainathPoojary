@@ -23,6 +23,7 @@
 - 💬 Ask me about anything, I love to answer!
 - 😄 Pronouns: He/Him.
 - 🎯 Portfolio: [sainath.me](sainath.me)
+- 📝 Blog: [blog.sainath.me](blog.sainath.me)
 - 📫 Email me at [contact@sainath.me](mailto:contact@sainath.me)
 
 **Languages and Tools:**
