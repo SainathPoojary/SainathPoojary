@@ -13,7 +13,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="GIF" width=500 src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
 
 **About Me!**
 
