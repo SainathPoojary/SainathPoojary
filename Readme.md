@@ -30,7 +30,7 @@
 
 [![Linkedin,](https://img.icons8.com/color/30/null/python--v1.png)]()
 [![JavaScript,](https://img.icons8.com/color/30/null/javascript--v1.png)]()
-[![Java,](https://img.icons8.com/color/30/null/java--v1.png)]()
+[![Java,](https://img.icons8.com/color/30/null/java-coffee-cup-logo--v1.png)]()
 [![React Native,](https://img.icons8.com/color/30/null/react-native.png)]()
 [![NodeJS,](https://img.icons8.com/fluency/30/null/node-js.png)]()
 [![HTML,](https://img.icons8.com/color/30/null/html-5--v1.png)]()
