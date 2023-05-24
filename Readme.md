@@ -64,7 +64,7 @@
 | Grobbiz                        | Vite                     | Firebase                          | [link](https://grobbiz.in)                          | [link](https://github.com/GROBBIZ/landing-page) 		  |
 | Landing Page                   | HTML, CSS                | -                                 | [link](https://sainathpoojary.github.io/blur-landing-page/)|[link](https://github.com/SainathPoojary/blur-landing-page) |
 | Home2decor Landing Page        | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/home2decor) | [link](https://github.com/SainathPoojary/home2decor)              |
-| Send In Blue NewsLetter        | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/home2decor) | [link](https://github.com/SainathPoojary/home2decor)              |
+| Send In Blue NewsLetter        | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/NewsLetterWebsite) | [link](https://github.com/SainathPoojary/NewsLetterWebsite)|
 | Simple Responsive Website      | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/Simple-Responsive-website/)|[link](https://github.com/SainathPoojary/Simple-Responsive-website)|
 
 **Github Stats:**
