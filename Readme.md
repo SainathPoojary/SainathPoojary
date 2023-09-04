@@ -23,8 +23,8 @@
 - 💬 Ask me about anything, I love to answer!
 - 😄 Pronouns: He/Him.
 - 🎯 Portfolio: [sainath.me](https://sainathpoojary.github.io/)
-- 📝 Blog: [blog.sainath.me](https://blog.sainath.me/)
-- 📫 Email me at [contact@sainath.me](mailto:contact@sainath.me)
+- 📝 Blog: [blog.sainathpoojary.tech](https://blog.sainathpoojary.tech/)
+- 📫 Email me at [contact@sainathpoojary.tech](mailto:contact@sainathpoojary.tech)
 
 **Languages and Tools:**
 
