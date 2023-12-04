@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/sainathpoojaryy/">
   <img align="left" alt="Sainath's Instagram" width="24px" src="https://img.icons8.com/color/96/null/instagram-new--v1.png" />
 </a>
-<a href="https://twitter.com/sainathpoojary">
-  <img align="left" alt="Sainath's Twitter" width="24px" src="https://img.icons8.com/color/96/null/twitter--v1.png" />
+<a href="https://x.com/sainathpoojaryy">
+  <img align="left" alt="Sainath's Twitter" width="24px" src="https://img.icons8.com/color/96/null/twitterx--v1.png" />
 </a>
 
 <br />
@@ -23,7 +23,6 @@
 - 💬 Ask me about anything, I love to answer!
 - 😄 Pronouns: He/Him.
 - 🎯 Portfolio: [sainathpoojary.tech](https://sainathpoojary.tech/)
-- 📝 Blog: [blog.sainathpoojary.tech](https://blog.sainathpoojary.tech/)
 - 📫 Email me at [contact@sainathpoojary.tech](mailto:contact@sainathpoojary.tech)
 
 **Languages and Tools:**
@@ -67,18 +66,14 @@
 | Send In Blue NewsLetter        | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/NewsLetterWebsite) | [link](https://github.com/SainathPoojary/NewsLetterWebsite)|
 | Simple Responsive Website      | HTML, CSS, JS            | -                                 | [link](https://sainathpoojary.github.io/Simple-Responsive-website/)|[link](https://github.com/SainathPoojary/Simple-Responsive-website)|
 
-**Github Stats:**
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sainath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sainathpoojary&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathpoojary&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sainathpoojary" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathpoojary&show_icons=true&locale=en&layout=compact&theme=tokyonight&&hide_border=true" alt="sainathpoojary" height="192px"/>
+	 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathpoojary&theme=tokyonight&hide_border=true" alt="sainathpoojary" height="192px"/>
   <br/>
-  </p>
+
 </details>
 
 [![](https://visitcount.itsvg.in/api?id=sainathpoojary&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
